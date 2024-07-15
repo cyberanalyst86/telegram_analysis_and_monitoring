@@ -1,19 +1,19 @@
 1.) Please install the required python libraries specified in requirements.txt (pip install -r requirements.txt). 
 
 2.) If error is encountered when installing the required dependencies, please use do the following:
-**** pip install argostranslate
-**** pip install Telethon
-**** pip install google-generativeai
-**** pip install pandas
-**** pip install telebot
+pip install argostranslate,
+pip install Telethon,
+pip install google-generativeai,
+pip install pandas and
+pip install telebot.
 
 3.) You will need to have or create the following in order for the program to work:
-**** telegram api_id
-**** telegram api_hash 
-**** phone number used to create telegram account
-**** gemini api key
-**** telegram bot and bot token
-**** telegram channel or group id (chat_id) which you want to send notification to
+telegram api_id, 
+telegram api_hash, 
+phone number used to create telegram account,
+gemini api key,
+telegram bot and bot token and
+telegram channel or group id (chat_id) which you want to send notification to.
 
 4.) The output excel file will contain the messages (translated to English) extracted from telegram channel
 
