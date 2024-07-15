@@ -1,0 +1,42 @@
+## Analysis of Telegram Messages 
+
+**Hacktivist Groups Involved:**
+
+* People's Cyber Army 
+* NoName057(16)
+* HackNeT
+* ZulikGroup
+
+**List of Organizations and Countries (Dates in Square Brackets):**
+
+**Airports:**
+
+* **Singapore:** Singapore Changi Airport [2024-06-20]
+* **Romania:** Henri Coanda Bucharest International Airport [2024-06-18]
+* **South Korea:** Incheon International Airport [2024-06-12]
+* **Canada:** Ottawa McDonald-Cartier International Airport [2024-05-23], Winnipeg Airport [2024-05-23]
+* **Bulgaria:** Burgas Airport [2024-05-23]
+* **Australia:** Sunshine Coast Airport [2024-05-10], Airport-Hedland [2024-05-10] 
+* **Italy:** Federico Fellini International Airport [2024-05-08], Venice Marco Polo Airport [2024-05-08], Bologna Airport [2024-05-05],  Pescara Abruzzo Airport [2024-05-04], Almería Airport [2024-04-19], Alicante-Elche Airport [2024-04-19], Bilbao Airport [2024-04-19] 
+* **Latvia:** Liepaja Airport [2024-03-11]
+
+**Other:**
+
+* **Romania:** University of Bucharest [2024-06-18], Meridian taxi service [2024-02-22], Speedtaxi taxi service [2024-02-22], Telecom mobile operator [2024-02-22]
+* **Ukraine:** Taxi 292 [2024-02-06], Aurora taxi [2024-02-06], Taxi Lionsiv [2024-02-06]
+* **Moldova:** Parliament of the Republic of Moldova [2024-04-23], Multimedia portal of the Parliament of the Republic of Moldova [2024-04-23], Information Technology and Cybersecurity Service [2024-04-23]
+* **Italy:** Italian Port of Taranto [2024-05-05], Commissariat General for Market and Competition (AGCM) [2024-05-05]
+
+**Motives:**
+
+* **Anti-Western Sentiment:** Many attacks target Western countries, suggesting a broader geopolitical motivation.
+* **Support for Russia:** The attacks, often conducted with the People’s Cyber Army, appear to be in line with Russian interests.
+* **Retaliation against Russophobia:**  The attacks on Moldova are explicitly framed as retaliation for the country's perceived anti-Russian stance.
+* **Opportunism:** Some attacks, particularly those targeting taxi services, may be motivated by financial gain or disruption rather than a specific political agenda. 
+
+**Tactics:**
+
+* **DDoS Attacks:** The messages frequently mention "shutting down" websites, suggesting the use of Distributed Denial of Service (DDoS) attacks to overwhelm servers and make websites inaccessible. 
+* **Website Defacement:** While not explicitly stated, the groups may also be engaging in website defacement to spread propaganda or leave their mark on targeted sites.
+* **Collaboration and Coordination:** The messages highlight collaboration between different hacktivist groups, indicating a coordinated effort to maximize their impact. 
+* **Information Warfare:** The messages themselves are part of an information warfare strategy, aiming to spread fear, disrupt operations, and promote a specific narrative. 

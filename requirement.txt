@@ -1,0 +1,4 @@
+telethon
+argostranslate
+pandas
+google.generativeai
